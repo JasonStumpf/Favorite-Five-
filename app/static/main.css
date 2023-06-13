@@ -1,0 +1,16 @@
+body{
+    background-color: lightskyblue;
+    text-align: center;
+}
+
+.list-of-players {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 1000px;
+}
+
+.list-group-item {
+    border-color: black;
+    background-color: lightgray
+}
